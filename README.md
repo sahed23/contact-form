@@ -1,2 +1,2 @@
 # contact-form
-This is validate contact form ✨🎉🎉
+This is a validate contact form ✨🎉🎉
